@@ -1,2 +1,3 @@
-# invoice-builder-app
-Drag and drop invoice builder for company functions
+# Invoice Builder 
+
+A drag and drop interface for building advanced invoices which can be sent to customers or downloaded as a pdf
